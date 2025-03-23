@@ -26,7 +26,10 @@ Question: Implement a program in C that prints the minimum coins needed to make 
 ## Scrabble-code
 Question: Implement a program in C that determines the winner of a short Scrabble game. Your program should prompt for input twice: once for “Player 1” to input their word and once for “Player 2” to input their word. Then, depending on which player scores the most points, your program should either print “Player 1 wins!”, “Player 2 wins!”, or “Tie!”.
 
-![image](https://github.com/user-attachments/assets/5462f305-5831-4636-a364-90bf5411faba)
+
+| A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 3 | 3 | 2 | 1 | 4 | 2 | 4 | 1 | 8 | 5 | 1 | 3 | 1 | 1 | 3 | 10 | 1 | 1 | 1 | 1 | 4 | 4 | 8 | 4 | 10 |
 
 For example, if we wanted to score the word “WIN”, we would note that the ‘W’ is worth 4 points, the ‘I’ is worth 1 point, the ‘N’ is worth 1 points. Summing these, we get that “WIN” is worth 6 points.
 
