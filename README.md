@@ -57,7 +57,14 @@ If any of the characters of the command-line argument is not a decimal digit, yo
  positions away from A, provided you wrap around from Z to A.
 - Your program must output plaintext: (with two spaces but without a newline) and then prompt the user for a string of plaintext (using get_string).
 - Your program must output ciphertext: (with one space but without a newline) followed by the plaintext’s corresponding ciphertext, with each alphabetical character in the plaintext “rotated” by k positions; non-alphabetical characters should be outputted unchanged.
-- Your program must preserve case: capitalized letters, though rotated, must remain capitalized letters; lowercase letters, though rotated, must remain lowercase letters.
-- After outputting ciphertext, you should print a newline. Your program should then exit by returning 0 from main.
 
-- <a href= "https://github.com/MR-S92/Python-Library/blob/main/caesar.c">Link to Code </a>
+ ## Sort-Code
+Solve: Analyze three (compiled!) sorting programs to determine which algorithms they use. :
+- Selection sort iterates through the unsorted portions of a list, selecting the smallest element each time and moving it to its correct location.
+- Bubble sort compares pairs of adjacent values one at a time and swaps them if they are in the incorrect order. This continues until the list is sorted.
+- Merge sort recursively divides the list into two repeatedly and then merges the smaller lists back into a larger one in the correct order.
+  
+  <a href= "https://github.com/MR-S92/Python-Library/tree/main/Sort">Link to Folder </a>
+  
+
+
